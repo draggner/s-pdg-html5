@@ -1,0 +1,1 @@
+Tag HTML - p: seguindo o mesmo exemplo da tag anteriomente exemplificada, essa é uma tag de representação de parágrafo, ou seja, são textos pequenos que apresentam diversos caracteres que podem ser introduzidos como textos, inumerações, etc. Dando significado a ser um parágrafo na aplicação web
