@@ -1,6 +1,6 @@
 # Tag HTML - a
 
-O elemento de âncora representado pela tag `<a>` é capaz de criar textos/links que são interligados com outras páginas web. Possui uma sintaxe básica de um elemento HTML, acompanhado com o atributo `href` que serve para direcionar o link designado pela tag `<a>`
+O elemento de âncora representado pela tag `<a>` é capaz de criar links ou converter textos para links, que serve para interligar com outras páginas. Possui uma semalhaça com a sintaxe básica de um elemento HTML, acompanhado com o atributo `href` que serve para direcionar o link designado pela tag `<a>`
 
 Por exemplo,
 ```HTML
