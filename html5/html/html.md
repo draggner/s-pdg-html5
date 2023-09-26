@@ -18,6 +18,8 @@ Recebece na imagem abaixo, a forma que o browser intrepeta uma tag e como esse e
   <img  src="./Screenshot_1.png">
 </div>
 
+<br>
+
 O qual tem suas respetivas aberturas `<h1>` acompanhadas com o conteúdo e o fechamento `</h1>`
 
 É importante ressaltar que ao depender do contexto da tag, algumas tags não v ão precisar de fechamento, apenas acompanhado com `>`
