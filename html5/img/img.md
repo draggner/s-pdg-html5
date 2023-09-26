@@ -1,4 +1,23 @@
-Tag HTML - img: este elemento html dar a possibilidade de adicionar imagens na aplicação. Tendo uma sintaxe bastante parecida com as demais tags, a diferença é que não possui uma tag de fechamento. Devido o seu destaque familiar de que o significado dessa tag é a exibição da imagem, tendo o uso de um atributo espeficico que é utilizado nessa tag.
+# Tag HTML - img
 
-- A sintaxe da tag img é um fechamento automatico, não necessitando da tag de fechamento.
-- Importante destacar que se utiliza o atributo src (mais pra frente será itroduzido) que o valor passado é o diretorio da imagem, URL, dentre outros parametros que podem ser passados para a exibição da imagem.
+O elemento `<img>` é uma form de inserir imagens na aplicação web. Tendo uma sintaxe diferente com as demais que possui o conceito de `fechamento automático.` 
+
+É quando um elemento HTMl não necessita da sua tag de fechamento, se fecha apenas com a tag de abertura, o qual se insere suas propriedades e o proposito do elemento como todo.
+
+Por exemplo,
+
+```HTML
+<h1>Hello Wolrd</h1>
+<!--
+  Nesse exemplo é uma tag que não possui fechamento automático
+-->
+
+<img src="" alt="">
+
+<!--
+  Nesse outro exemplo, é uma tag que possui um fechamento automático.
+-->
+
+```
+
+Devido o destaque familiar que o elemento `img` possui, ou seja, o significado dessa tag é a exibição da imagem, tendo o uso de um atributo espeficico.
