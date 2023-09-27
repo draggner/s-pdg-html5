@@ -1,0 +1,1 @@
+O elemento que insere o conteúdo da legenda de uma imagem é denominada de `<figcaption>` que serve justamente inserir um conteúdo de uma legenda de uma imagem. Geralmente é utilizada após a tag `<img>` dentro do elemento `<figure>`
