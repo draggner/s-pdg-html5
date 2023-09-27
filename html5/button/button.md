@@ -1,0 +1,5 @@
+O elemento `button` serve para inserir um botão clicavel na aplicação web. Geralmente, os botões são utilizados dentro do elemento `form` para quando o usuário informar os dados dentro dos elementos `input` e quando o usuário clicar no valor do elemento `button`, os dados sejam encaminhados para URL inicialmente inserida pelo elemento `form` com atributo `action`
+
+Ao inserir um elemento `button` abaixo de um elemento `input` por exemplo, mesmo inserido um abaixo do outro, no navegador estão um ao lado do outro. Isso ocorre porque os elementos `input` e `button` são elementos em linha (inline) o qual demostra a exibição informada.
+
+Na criação do elemento `button` dentro de um elemento `form` possui um comprtamento padrão. Para não causar conflitos, é recomendado inserir o atributo `type` acompanhado com o valor `submit` ao elemento `button` para deixar claro que o elemento `button` é o elemento de envio do formulário.
