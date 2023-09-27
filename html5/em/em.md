@@ -1,0 +1,1 @@
+Serve para enfatizar o texto envolvido pela tag `<em>`. De forma itálica.
