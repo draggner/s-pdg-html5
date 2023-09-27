@@ -1,0 +1,1 @@
+Assim como a tag `<ul>` é uma lista não ordenada, existe o elemento que define uma lista ordenada, que é `<ol>`. Que sua denominação é que os elementos englobados sobre o `<ol>` são inumeradas, diferente do elemento `ul` que não tem essa numeração. Possuindo a mesma sintaxe de inserir elementos da lista com o uso do elemento `<li>`.
