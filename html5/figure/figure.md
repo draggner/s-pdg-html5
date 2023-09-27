@@ -1,0 +1,2 @@
+O elemento `<figure>` representa o conteúdo autocontido que permite que associe uma imagem com uma legenda correspondente a imagem.
+É necessário que agrupe a tag `<figure>` com a tag `<img>` para associar a imagem com uma legenda.
