@@ -1,6 +1,6 @@
 # `<html>` e `<!DOCTYPE>`
 
-Em HTML, em todo começo antes de programar códigos em HTML, é necessário criar um arquivo com a devida extensão `.html` ou `.htm`, para que o browser consiga intrepetar que isto é um arquivo HTML porém é necessário de um outro requisito que será abordado logo abaixo. 
+Em HTML, em todo começo antes de programar códigos em HTML, é necessário criar um arquivo com a devida extensão `.html` ou `.htm`, para que o browser consiga intrepetar que isto é um arquivo HTML e que possa realizar as devidas renderizações de elementos na página. Porém é necessário de um outro requisito que será abordado logo abaixo. 
 
 Ambas as extensões mencionadas funcionam porém é utilizados por grande parte dos desenvolvedores a extensão `.html`
 
@@ -33,22 +33,5 @@ Por exemplo, de código HTML:
 Dessa forma, o navegador além de identificar a extensão do arquivos, do código acima, ele renderiza a tag `<h1>` com seu devido comportamento, proposito de uso e com as pré-estilizações definidas pelo browser.
 
 <div align="center">
-  <img src="../../assets/2ELEMENT_HTML_doctype_html.png">
+  <img src="../../assets/2ELEMENT_HTML_doctype_html.png" alt="400x180">
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-No HTML e em versões mais recentes, o browser tem uma forma de identificar arquivos que são 
-No tópo da hierarquia de tags em um documento HTML
-
