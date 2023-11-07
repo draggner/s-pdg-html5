@@ -1,4 +1,4 @@
-# Tag HTML - Título
+# `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` e `<h6>`
 
 O elemento representado como `<h1>`, possui seis várições de cabeçalhos servindo para indicar títulos de vários tamanhos e espessuras. 
 
