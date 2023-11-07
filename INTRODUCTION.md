@@ -29,7 +29,7 @@ O maior exemplo que pode ser feito para entender como se escreve um elemento HTM
 ```
 
 <div align="center">
-  <img src="./assets/1INTRODUCTION_h1_hello_world.png">
+  <img src="./assets/1INTRODUCTION_h1_hello_world.png" alt="400x180">
 </div>
 
 Percebe-se que a tag de abertura é denominada por `<h1>`, o conteúdo entre a tag de abertura `<h1>` e de fechamento `</h1>`. Uso do sinal de menor(<), nome do elemento(h1), sinal maior(>), conteúdo, novamente sinal de menor(<), barra para direita (/), nome do elemento novamente (h1) e sinal de maior (>). Esses mininos detalhes são de extrema importancia e é a particularidade da escrita do propria linguagem de marcação de hipertexto.
