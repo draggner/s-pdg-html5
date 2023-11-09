@@ -55,7 +55,7 @@ Assim, haverá uma quebra de linha, como pode-se ver no exemplo abaixo, renderiz
   <img src="../../assets/4ELEMENT_P_CONTEUDOS_ENTRE_PARAGRAFOS.png" alt="400x180">
 </div>
 
-Outra forma é inserir a tag `<br>`. Que serve para inserir quebras de linhas dentro de um conteúdo da tag `<p>`, como no código abaixo:
+Outra forma é inserir a tag `<br>`. É um elemento responsavel para inserir quebras de linhas. Serve para inserir essas quebras, no exemplo abaixo, acompanhado com a tag `<p>`, é possível perceber o seu uso:
 
 
 ```HTML
