@@ -57,3 +57,41 @@ No código abaixo, uma simples demostração de uso:
 Percebe-se que no topo da página, o conteúdo da tag `<title>` está sendo exibido na aba da página? 
 
 Pois então, é esse comportamento que a tag `<title>` possui.
+
+
+# `<body>`
+
+A tag `<body>` é um elemento que possui um comportamendo de exibir as tags estruturadas na aplicação para o usuário. Ou seja, é exibida aos usuários, todo o conteúdo da aplicação.
+
+Pode ver no código abaixo, a onde a tag mensionada deve ser inserida:
+
+```HTML
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    ...
+  </body>
+</html>
+```
+
+Percebe-se na estrutura "básica" do documento HTML, que a tag `<body>` tem como `parent` a tag `<html>` e o `<body>` é o `child`, na DOM. 
+
+Como mensionado, essa parte, o conteúdo estruturado por tags é inserido no `<body>` para exibir as informações na página inicial, como pode ser mostrado na imagem a seguir:
+
+<div align="center">
+  <img src="../../assets/7ELEMENT_BODY.png" alt="450x180">
+</div>
+
+É possível perceber que dentro do conteúdo da tag `<body>` tem outras tag sendo exibidas, como pode ver as tags `<h1>` e `<p>`, como demostrado no código fonte logo abaixo:
+
+```HTML
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <h1>Título na página.</h1>
+    <p>Conteúdo em parágrafo na página.</p>
+  </body>
+</html>
+```
