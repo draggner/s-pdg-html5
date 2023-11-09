@@ -1,6 +1,8 @@
 # `<em>` e `<i>`
 
-A tag `<em>` e `<i>` possui comportamentos de que seus conteúdos, os textos, tornem de forma itálica.
+O elemento `em` no HTML, tem um propósito de uso para textos, de forma que enfatize o texto de forma itálica.
+
+Tanto a tag `<em>` e `<i>` possui esses comportamentos mensionados em seus conteúdos, os textos, tornem de forma itálica.
 
 Pode-se ver nos exemplos a seguir o uso dessas respectivas tags:
 
