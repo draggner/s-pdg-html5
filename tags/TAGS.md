@@ -9,3 +9,20 @@ Não podemos aprender tudo, mas não é descartavel a existencia desses elemento
 Logo abaixo, será listado em agrupamento de contextos, as respectivas tags HTML para serem encontradas com facilidade:
 
 ...Em breve contextualização...
+
+
+Tags vistas e não mensionadas na base de pesquisas:
+
+tags:
+
+- pre
+
+formatação em textos..
+- ins
+- del
+- s
+
+Descolar texto
+
+- sup
+- sub
