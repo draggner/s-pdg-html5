@@ -1,9 +1,10 @@
-# Tag HTML - button
-O elemento `button` serve para inserir um botão clicavel na aplicação web.
+# `<button>`
 
-Geralmente, os botões são utilizados dentro do elemento `form` para quando o usuário informar os dados dentro dos elementos de entrada,`input`. E quando o usuário clicar no valor do elemento `button`, possívelmente com o atributo `submit` para informar o comportamento padrão do formulário, os dados vão ser encaminhados para URL inicialmente inserida pelo elemento `form` com atributo `action`.
+A representação do botão em HTML é definido pela tag `<button>`, que insere um botão clicavél na página.
 
-Logo abaixo um exemplo de código HTML do elemento `button`
+Essa tag é geralmente utilizada em formulários (`<form>`) quando o usuário clicar em um elemento botão (`<button>`) após informas os dados de entrada pelos `<input>`, é provavel que seja necessário inserir o atributo `submit`  para que os dados inseridos sejam encaminhados para URL de forma correta.
+
+Logo abaixo um exemplo de código HTML do elemento `<button>`
 
 ```HTML
 <button>Enviar</button>
@@ -12,7 +13,7 @@ Logo abaixo um exemplo de código HTML do elemento `button`
 Em seguida a exibição,
 
 <div align="center">
-  <img src="Screenshot_6.png">
+  <img src="../../tags/button/Screenshot_6.png">
 </div>
 
 É possível perceber que o proprio navegador traz propriedades pré-estilizadas para a exibição do elemento `button`
@@ -20,7 +21,7 @@ Em seguida a exibição,
 Ao inserir um elemento `button` abaixo de um elemento `input` por exemplo, mesmo inserido um abaixo do outro, no navegador estão um ao lado do outro. É mostrado adiante na imagem abaixo:
 
 <div align="center">
-  <img src="Screenshot_7.png">
+  <img src="../../tags/button/Screenshot_7.png">
 </div>
 
 Isso ocorre porque os elementos `input` e `button` são elementos em linha (inline) o qual demostra a exibição informada.
