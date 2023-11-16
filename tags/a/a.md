@@ -1,13 +1,15 @@
-# Tag HTML - a
+# `<a>`
 
-O elemento de âncora representado pela tag `<a>` é capaz de criar links ou converter textos para links, que serve para interligar com outras páginas. Possui uma semalhaça com a sintaxe básica de um elemento HTML, acompanhado com o atributo `href` que serve para direcionar o link designado pela tag `<a>`
+O termo âncora representado pela tag `<a>` pode se comportar em criar links/converter textos/imagens para se interligar em outras páginas.
+
+Para definir a configuração de comportamento de interligar o elemento para outra página, não precisa apenas da declaração `<a>`. É necessário inserir o atributo `href`, que serve para informar o direcionamento para a página correspodente.
 
 Por exemplo,
 ```HTML
 <a href="https://google.com">Click aqui</a>
 ```
 
-Ao clicar no elemento `Clique aqui`, o navegador intrepeta que deve ser encaminhado para a página ligada pela tag.
+Ao clicar no elemento `Clique aqui`, o navegador intrepeta que deve ser encaminhado para a página ligada pela tag, inicialmente inserido pelo atributo `href`, que é onde será direcionado.
 
 Outra utilizade de uso é agrupar outros elementos de texto em HTML como forma de links, dando destaque para o elemento `<p>` de parágrafo.
 
@@ -16,7 +18,7 @@ Outra utilizade de uso é agrupar outros elementos de texto em HTML como forma d
 ```
 Como demostrado na imagem abaixo:
 <div align="center">
-  <img src="Screenshot_3.png">
+  <img src="../../tags/a/Screenshot_3.png">
 </div>
 
 Apesar da intrepetação do código não ser exibido a vírgula no elemento especial, no browser é possível perceber essa exebição.
