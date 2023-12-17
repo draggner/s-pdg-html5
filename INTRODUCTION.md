@@ -1,50 +1,45 @@
-# HTML 5
+<h1>
+	<img src="https://i.ibb.co/QfkB43X/LOGO-DZS-BLACK-TRANSPARENT-PNG.png" width="55px" align="center" />
+	<span>HTML</span>
+</h1>
 
-A sigla HTML (**H**yper**t** **M**arkup **L**anguage) ou linguagem de marcação de hipertexto, é uma forma sistematizada para derivar estruturas em aplicações web com base em elementos que representa um conteúdo específico.
+A sigla HTML (**H**yper**t** **M**arkup **L**anguage) ou linguagem de marcação de hipertexto, é uma forma de derivar estruturas de forma sistematizada. Essas derivações são instruídas através das tags HTML, que representam um conteúdo específico.
 
-Geralmente os elementos, conhecidos por tags é uma forma de declarar um elemento específico que será apresentado ao cliente.
-
-Essas representações que são renderizados pelos browsers (navegadores) são pre-definidas pelo CSS (Cascading Syle Sheets) o qual o próprio navegador faz essas configurações de estilos padrão nas tags HTML.
+Essas tags, são como elementos, que podem ser declarados e cada estrutura construída é renderizada pelo navegador (browser), apresentando a página web. Por sua vez, essas representações são a forma mais essencial em programação HTML.
 
 ## Sintaxe Básica
 
-Um elemento, conhecido como tag possui uma tag de abertura:
+A programação em HTML é através das tags. Cada tag tem uma representação e se comportará de uma forma especifica, ao depender da tag usada.
+
+As tags, boa parte da quantidade são usadas por pares: tag de abertura e tag de fechamento.
+
+A tag de abertura pode ser exemplificada com os colchetes angulares (`<>`) com a palavra-chave da tag. Por exemplo:
 
 ```HTML
-<element_name>
+<nome_elemento>
 ```
 
-O qual possui uma tag de fechamento depois do conteúdo:
+
+A tag de fechamento pode ser denominado pelos colchetes angulares (`</>`) com a diferença de uma barra a direita `/` e seguido com a palavra-chave da tag eminente. Por exemplo:
 
 ```HTML
-</element_name>
+</nome_elemento>
 ```
 
-Nesses exemplos, o HTML tem suas denominações de sintaxe, que é a forma correta de se programar.
+Ambos os exemplos acima, é uma forma simplificada de como funciona a sintaxe em HTML, porém o principal é o comportamento esperado, formando os elementos.
 
-O maior exemplo que pode ser feito para entender como se escreve um elemento HTML, é o famoso `Hello, World`, como no exemplo abaixo:
+Por exemplo, se quero escrever um elemento HTML, como um título `Olá, Mundo!`. Posso utilizar a representação da tag título `<h1>` com o conteúdo respectivo mencionado, como pode ser exemplificado a seguir:
 
 ```HTML
-<h1>Hello, World</h1>
+<h1>Olá, Mundo!</h1>
 ```
 
-<div align="center">
-  <img src="./assets/1INTRODUCTION_h1_hello_world.png" alt="400x180">
-</div>
+> **Observação**: É possível perceber no exemplo acima, que a **tag de abertura** (`<h1>`), o conteúdo (`Olá, Mundo!`) entre os pares da tag de abertura e de **fechamento** (`</h1>`), esses mínimos detalhes são extremamente importantes, no qual são particularidades do próprio HTML.
 
-Percebe-se que a tag de abertura é denominada por `<h1>`, o conteúdo entre a tag de abertura `<h1>` e de fechamento `</h1>`. Uso do sinal de menor(<), nome do elemento(h1), sinal maior(>), conteúdo, novamente sinal de menor(<), barra para direita (/), nome do elemento novamente (h1) e sinal de maior (>). Esses mininos detalhes são de extrema importancia e é a particularidade da escrita do propria linguagem de marcação de hipertexto.
-
-## Orientação
-É importante conhecer os elementos HTML e suas funcionalidades de como podem ser aplicadas e como se comportam. Porque existem varias tags de elementos que não possue a tag de fechamento. São denominadas por tags de *auto-fechamento* e tem um comportamento de uso para isso.
-
-Por exemplo, tags HTML como:
+Além disso, existem tags HTML que possui o **fechamento automático**, ou seja, não necessitam da tag de fechamento. A própria tag em si já define o comportamento próprio, sem a necessidade do fechamento em si, como é mostrado no exemplo:
 
 ```HTML
-<img>
-
-<meta>
-
-<input>
+<img src="" alt="Texto Alternativo" />
 ```
 
-Esses elementos tem seus devidos comportamentos para se comportarem da foram projetadas a se comportar como tags.
+Em conclusão, é importante conhecer os elementos HTML através de pesquisa das tags, quais são as funcionalidades e comportamentos pré-definidos. Outro fator crucial para o desenvolvimento é colocando os conceitos em prática ou testar sem a teórica prática, para depois entender.
