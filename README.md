@@ -1,29 +1,19 @@
-# S-Projeto de Desenvolvimento Geral - HTML
+<h1>
+	<img src="https://i.ibb.co/QfkB43X/LOGO-DZS-BLACK-TRANSPARENT-PNG.png" width="55px" align="center" />
+	<span>HTML - Projeto de Desenvolvimento Geral</span>
+</h1>
 
-<div align="center">
-  <img src="" alt="Logo DZS">
-</div>
+O repositório `s-pdg-html5` é voltado para o desenvolvimento de estudos de forma que o usuário possa consultar a pré-documentação construída.
 
-O `s-pdg-html5` é um repositório de desenvolvimento para estudos como forma de pré-documentação a ser consultada sempre que precisar. A versão de moneclatura `s` é as primeiras etapas para a construção e desenvolvimento do propósito do projeto.
+Ao momento, o projeto é voltado para toda comunidade. Aqueles que desejam contribuir para esse desenvolvimento, tem no `CONTRIBUTING.md`, ao momento em que está na primeira etapa `s` de desenvolvimento.
 
+## Sobre o Desenvolvedor 👨🏻‍💻
 
-## Finalidade do Projeto
-Tem finalidade em desenvolver conceitos da tecnologia especificicada, como iniciativa em desenvolver e aperceiforar os estudos (de forma que todos possam participar nesse processo) e quando o repositório chegar na finalização (depois de passar por st e std), a versão pode ser continuada pelos o proprios usuários a medida que forem adquirindo conhecimenos previos em sua jornada na área de desenvolvimento.
+Desenvolvedor entusiasmo pela tecnologia, busca se desenvolver nessa área de programação trazendo: inovação e contribuição, para toda à comunidade de desenvolvimento.
 
-> Pode-se dizer que não gostaria de agregar conhecimento sozinho, gostaria de compartilhar minha experiência e está aberto a sugestões, opiniões, pontos de vistas ou críticas a respeito.
+Davi Samuel | Draggner - Desenvolvedor
+2023, Alto do Rodrigues/RN
 
+## Ferramentas 🛠
 
-# Tecnologias utilizadas
-- HTML5
-
-# Contribua
-
-Para mais informações de contribuição, acesse `CONTRIBUTING.md` na raiz do projeto.
-
-
-# Desenvolvedor
-
-Desenvolvido por Davi Samuel 
-draggner | Web Developer
-Alto do Rodrigues/RN
-2023
+- HTML
