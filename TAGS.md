@@ -1,35 +1,22 @@
-# Sobre as Tags
+<h1>
+	<img src="https://i.ibb.co/QfkB43X/LOGO-DZS-BLACK-TRANSPARENT-PNG.png" width="55px" align="center" />
+	<span>Especificação da Tag em HTML</span>
+</h1>
 
-Esse README.md é uma breve orientação sobre o que será encontrado na respectiva pastas.
+As tags são primordiais para a programação em HTML, existem diversos elementos que podem ser usados e introduzidos (ex: formatação de textos, parágrafos, títulos, botões, imagens).
 
-É importante esclarecer que a linguagem de marcação de hipertexto tem suas particularidades e vários elementos que possui propositos de uso especificicos.
+Neste respetivo tópico será abordando brevemente o proposito de uso, comportamento e as propriedades renderizadas por padrão em cada navegador web.
 
-Não podemos aprender tudo, mas não é descartavel a existencia desses elementos.
+Esse agrupamento de tags serão inseridas na pasta [`tags`]() no qual será introduzindo com mais profundidade, explicações, exemplos e alternativas de uso.
 
-Logo abaixo, será listado em agrupamento de contextos, as respectivas tags HTML para serem encontradas com facilidade:
+> Não podemos aprender tudo, mas não é descartável a existência de cada um desses elementos.
 
-...Em breve contextualização...
+Logo abaixo, o agrupamento das tags em HTML:
 
-### Tags Não-introduzida 
-Tags vistas e não mensionadas na base de pesquisas:
+# Tags
 
-tags:
+## Formatação de Textos
 
-- pre
-
-formatação em textos..
-- ins
-- del
-- s
-
-Descolar texto
-
-- sup
-- sub
-
-Tags para organizar o conteúdo:
-
-- a
-- li
-- ol
-- ul
+**Nome da tag**: `<h1>` <br>
+**Derivações**: `<h2>`, `<h3>`, `<h4>`, `<h5>` e `<h6>` <br>
+**Descrição**: Elemento usado para definir títulos, de forma que destaque o conteúdo principal da página.
