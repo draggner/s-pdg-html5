@@ -11,8 +11,10 @@ Ao momento, o projeto é voltado para toda comunidade. Aqueles que desejam contr
 
 Desenvolvedor entusiasmo pela tecnologia, busca se desenvolver nessa área de programação trazendo: inovação e contribuição, para toda à comunidade de desenvolvimento.
 
-Davi Samuel | Draggner - Desenvolvedor
-2023, Alto do Rodrigues/RN
+<div align="center">
+	<p>Davi Samuel | Draggner - Desenvolvedor</p>
+	<p>2023, Alto do Rodrigues/RN</p>
+</div>
 
 ## Ferramentas 🛠
 
