@@ -7,7 +7,7 @@ As tags são primordiais para a programação em HTML, existem diversos elemento
 
 Neste respetivo tópico será abordando brevemente o proposito de uso, comportamento e as propriedades renderizadas por padrão em cada navegador web.
 
-Esse agrupamento de tags serão inseridas na pasta [`tags`]() no qual será introduzindo com mais profundidade, explicações, exemplos e alternativas de uso.
+Esse agrupamento de tags serão inseridas na pasta [`tags`](https://github.com/draggner/s-pdg-html5/tree/main/tags) no qual será introduzindo com mais profundidade, explicações, exemplos e alternativas de uso.
 
 > Não podemos aprender tudo, mas não é descartável a existência de cada um desses elementos.
 
